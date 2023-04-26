@@ -1,8 +1,8 @@
 import { readFileSync } from 'node:fs';
 
 
-export const solve =(input: string) => {
-    return 0;
+export const solve =(input: string): [number, number] => {
+    return [0, 0];
 }
 
 const exec = () => {
