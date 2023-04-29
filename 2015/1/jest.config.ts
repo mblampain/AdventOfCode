@@ -6,5 +6,5 @@ export default async (): Promise<Config.InitialOptions> => {
     verbose: true,
     testMatch: ["**/index.test.ts"],
     testEnvironment: "node",
- };
+  };
 };
