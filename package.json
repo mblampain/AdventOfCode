@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "devDependencies": {
+    "@types/md5": "^2.3.5",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "latest"
+  },
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
